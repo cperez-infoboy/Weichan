@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sergeytsalkov/meekrodb": "^2.4",
+        "rbdwllr/reallysimplejwt": "^4.0"
+    }
+}
