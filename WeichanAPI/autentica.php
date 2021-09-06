@@ -4,6 +4,7 @@ require "config.php";
 require "./response/response.php";
 require "./response/responsetoken.php";
 
+//Autenticación
 use ReallySimpleJWT\Token;
 
 header("Access-Control-Allow-Origin: *");
